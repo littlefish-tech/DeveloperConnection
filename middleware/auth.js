@@ -1,5 +1,5 @@
 const jwt = require("jsonwebtoken");
-const config = ("config");
+const config = require("config");
 
 module.exports = function (req, res, next) {
     // get token from header, "x-auth-token" the header key we want to send along 

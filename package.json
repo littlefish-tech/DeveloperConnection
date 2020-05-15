@@ -28,7 +28,9 @@
     "express-validator": "^6.4.1",
     "gravatar": "^1.8.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.9.12"
+    "mongoose": "^5.9.12",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
